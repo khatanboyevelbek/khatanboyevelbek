@@ -1,6 +1,6 @@
 # Hi there, I am Elbek
 
-If you are looking for .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
+If you are looking for .NET developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
 
 The skills I can offer you include (but not limited to) Web API, ASP.NET MVC, C# and SQL, Typescript, Angular. 
 I can help you out with:
